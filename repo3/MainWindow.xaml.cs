@@ -20,5 +20,11 @@ namespace repo3
         {
             InitializeComponent();
         }
+
+
+        private void Pierdolsie_Clicked(object sender, RoutedEventArgs e)
+        {
+                     
+        }
     }
 }
