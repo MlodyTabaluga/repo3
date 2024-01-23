@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="kurwa twoja mac" FontSize="20" HorizontalAlignment="Center"/>
+        
         <Button Content="pierdol sie" Height="20" Width="100"/>
     </Grid>
 </Window>
