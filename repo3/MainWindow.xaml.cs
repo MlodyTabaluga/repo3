@@ -24,7 +24,7 @@ namespace repo3
 
         private void Pierdolsie_Clicked(object sender, RoutedEventArgs e)
         {
-             
+                     
         }
     }
 }
